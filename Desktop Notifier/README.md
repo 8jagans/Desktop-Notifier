@@ -1,1 +1,1 @@
-Install win10toast first
+First install *win10toast*
