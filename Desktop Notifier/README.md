@@ -1,1 +1,1 @@
-First install *win10toast*
+First install **win10toast**
