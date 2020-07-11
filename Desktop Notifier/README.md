@@ -4,4 +4,6 @@ you need to install a python library (*win10toast*) to execute this program succ
 ### Install win10toast for windows
 1) open *Run* (start + R)
 2) type *cmd* (command prompt)
-3) then pip install **win10toast**
+3) (you need to have an active internet connection to install)
+4) then pip install **win10toast**
+5) 
