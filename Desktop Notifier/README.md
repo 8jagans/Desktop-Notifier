@@ -6,3 +6,4 @@ you need to install a python library (*win10toast*) to execute this program succ
 2) type *cmd* (command prompt)
 3) (you need to have an active internet connection to install)
 4) then type **pip install win10toast** in cmd 
+5) Succesfully installed :-)
