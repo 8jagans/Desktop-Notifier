@@ -1,1 +1,2 @@
-First install **win10toast**
+## Steps to run this project
+1) install **win10toast**
