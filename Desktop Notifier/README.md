@@ -1,5 +1,5 @@
 ## Steps to run this project
-you need to install a python library (*win10toast*) to execute this program succesfully.
+you need to install a python library (named *win10toast*) to execute this program succesfully.
 
 ### Install win10toast for windows
 1) open *Run* (start + R)
