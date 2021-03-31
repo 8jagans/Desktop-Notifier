@@ -10,3 +10,5 @@ you need to install a python library (named *win10toast*) to execute this progra
 3) (you need to have an active internet connection to install)
 4) then type **pip install win10toast** in cmd 
 5) Succesfully installed :-)
+
+`DESKTOP NOTIFIER | Mini Project - 1`
