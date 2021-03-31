@@ -1,5 +1,5 @@
 # DESKTOP NOTIFIER
-`DESKTOP NOTIFIER | Mini Project - 1`
+`DESKTOP NOTIFIER`
 ### Mini Project - 1  |  *8jagans*
 
 ## Steps to run this project
