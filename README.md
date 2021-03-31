@@ -1,4 +1,5 @@
 # DESKTOP NOTIFIER
+`DESKTOP NOTIFIER | Mini Project - 1`
 ### Mini Project - 1  |  *8jagans*
 
 ## Steps to run this project
@@ -11,4 +12,4 @@ you need to install a python library (named *win10toast*) to execute this progra
 4) then type **pip install win10toast** in cmd 
 5) Succesfully installed :-)
 
-`DESKTOP NOTIFIER | Mini Project - 1`
+
