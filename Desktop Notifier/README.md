@@ -1,4 +1,4 @@
-# DESKTOP NOTIFIER using Python 
+# DESKTOP NOTIFIER
 ### My Project - 1 | *8jagans*
 
 ## Steps to run this project
